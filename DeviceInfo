@@ -1,0 +1,1652 @@
+[
+  {
+    "TimeGenerated": "2026-09-08T02:17:09Z",
+    "Timestamp": "2026-09-08T02:17:09Z",
+    "DeviceId": 1,
+    "DeviceName": "Device1",
+    "ClientVersion": "10.8830.26200.8893",
+    "PublicIP": "31.207.57.21",
+    "OSArchitecture": "64-bit",
+    "OSPlatform": "Windows11",
+    "OSBuild": 26200,
+    "IsAzureADJoined": 1,
+    "JoinType": "Hybrid Azure AD Join",
+    "AadDeviceId": "1b90f3fd-e623-56bd-826b-97652cb7bc37",
+    "LoggedOnUsers": [
+      {
+        "UserName": "user01",
+        "DomainName": "XYZ",
+        "Sid": "S-1-5-21-1105393054-1623902046-1723320406-153601"
+      }
+    ],
+    "OSVersion": "10",
+    "MachineGroup": "DeviceGroup 1",
+    "ReportId": 639244023230075686,
+    "OnboardingStatus": "Onboarded",
+    "DeviceCategory": "Endpoint",
+    "DeviceType": "Workstation",
+    "DeviceSubtype": "Workstation",
+    "OSDistribution": "Windows11",
+    "OSVersionInfo": "Windows 11",
+    "SensorHealthState": "Active",
+    "IsExcluded": 0,
+    "ExposureLevel": "Low",
+    "DeviceDynamicTags": [
+      "XYZ Domain Joined"
+    ],
+    "HardwareUuid": "8593b09e-0c6f-504c-a1b8-80d5a9a90d65",
+    "IsTransient": 0,
+    "OsBuildRevision": 8893,
+    "ConnectivityType": "Standard",
+    "DlpInfo": {
+      "IsDlpConfigurationValid": true,
+      "DlpPolicyLastModifiedTimeUTC": "2026-08-29T02:01:54.1998261Z",
+      "IsDlpEnabled": true,
+      "IsDefenderRealTimeProtectionEnabled": true,
+      "IsDefenderBehaviorMonitoringEnabled": true,
+      "HasDlpACBandwidthExceeded": false,
+      "HasDlpValidUpn": true,
+      "DlpUpn": "user01@xyz.com"
+    },
+    "DiscoverySources": {
+      "Defender for Endpoint": "2026-09-07"
+    },
+    "DeviceRoles": {},
+    "Type": "DeviceInfo"
+  },
+  {
+    "TimeGenerated": "2026-09-08T02:17:09Z",
+    "Timestamp": "2026-09-08T02:17:09Z",
+    "DeviceId": 2,
+    "DeviceName": "Device2",
+    "ClientVersion": "10.8830.26200.8893",
+    "PublicIP": "31.207.57.22",
+    "OSArchitecture": "64-bit",
+    "OSPlatform": "Windows11",
+    "OSBuild": 26200,
+    "IsAzureADJoined": 1,
+    "JoinType": "Hybrid Azure AD Join",
+    "AadDeviceId": "415f4088-f369-5c60-ae92-a64b2847ee18",
+    "LoggedOnUsers": [
+      {
+        "UserName": "user02",
+        "DomainName": "XYZ",
+        "Sid": "S-1-5-21-1105393054-1623902046-1723320406-153602"
+      }
+    ],
+    "OSVersion": "10",
+    "MachineGroup": "DeviceGroup 1",
+    "ReportId": 639244023230075687,
+    "OnboardingStatus": "Onboarded",
+    "DeviceCategory": "Endpoint",
+    "DeviceType": "Workstation",
+    "DeviceSubtype": "Workstation",
+    "OSDistribution": "Windows11",
+    "OSVersionInfo": "Windows 11",
+    "SensorHealthState": "Active",
+    "IsExcluded": 0,
+    "ExposureLevel": "Medium",
+    "DeviceDynamicTags": [
+      "XYZ Domain Joined"
+    ],
+    "HardwareUuid": "f3c5ff65-6b09-5633-bd9f-eacaa28ee108",
+    "IsTransient": 0,
+    "OsBuildRevision": 8893,
+    "ConnectivityType": "Standard",
+    "DlpInfo": {
+      "IsDlpConfigurationValid": true,
+      "DlpPolicyLastModifiedTimeUTC": "2026-08-29T02:01:54.1998261Z",
+      "IsDlpEnabled": true,
+      "IsDefenderRealTimeProtectionEnabled": true,
+      "IsDefenderBehaviorMonitoringEnabled": true,
+      "HasDlpACBandwidthExceeded": false,
+      "HasDlpValidUpn": true,
+      "DlpUpn": "user02@xyz.com"
+    },
+    "DiscoverySources": {
+      "Defender for Endpoint": "2026-09-07"
+    },
+    "DeviceRoles": {},
+    "Type": "DeviceInfo"
+  },
+  {
+    "TimeGenerated": "2026-09-08T02:17:09Z",
+    "Timestamp": "2026-09-08T02:17:09Z",
+    "DeviceId": 3,
+    "DeviceName": "Device3",
+    "ClientVersion": "10.8830.26200.8893",
+    "PublicIP": "31.207.57.23",
+    "OSArchitecture": "64-bit",
+    "OSPlatform": "Windows11",
+    "OSBuild": 26200,
+    "IsAzureADJoined": 1,
+    "JoinType": "Hybrid Azure AD Join",
+    "AadDeviceId": "9913447e-1765-5702-8d0a-653fb324653e",
+    "LoggedOnUsers": [
+      {
+        "UserName": "user03",
+        "DomainName": "XYZ",
+        "Sid": "S-1-5-21-1105393054-1623902046-1723320406-153603"
+      }
+    ],
+    "OSVersion": "10",
+    "MachineGroup": "DeviceGroup 1",
+    "ReportId": 639244023230075688,
+    "OnboardingStatus": "Onboarded",
+    "DeviceCategory": "Endpoint",
+    "DeviceType": "Workstation",
+    "DeviceSubtype": "Workstation",
+    "OSDistribution": "Windows11",
+    "OSVersionInfo": "Windows 11",
+    "SensorHealthState": "Active",
+    "IsExcluded": 0,
+    "ExposureLevel": "High",
+    "DeviceDynamicTags": [
+      "XYZ Domain Joined"
+    ],
+    "HardwareUuid": "6c2f1f52-cc38-528c-81ad-cc36b8e06c2b",
+    "IsTransient": 0,
+    "OsBuildRevision": 8893,
+    "ConnectivityType": "Standard",
+    "DlpInfo": {
+      "IsDlpConfigurationValid": true,
+      "DlpPolicyLastModifiedTimeUTC": "2026-08-29T02:01:54.1998261Z",
+      "IsDlpEnabled": true,
+      "IsDefenderRealTimeProtectionEnabled": true,
+      "IsDefenderBehaviorMonitoringEnabled": true,
+      "HasDlpACBandwidthExceeded": false,
+      "HasDlpValidUpn": true,
+      "DlpUpn": "user03@xyz.com"
+    },
+    "DiscoverySources": {
+      "Defender for Endpoint": "2026-09-07"
+    },
+    "DeviceRoles": {},
+    "Type": "DeviceInfo"
+  },
+  {
+    "TimeGenerated": "2026-09-08T02:17:09Z",
+    "Timestamp": "2026-09-08T02:17:09Z",
+    "DeviceId": 4,
+    "DeviceName": "Device4",
+    "ClientVersion": "10.8830.26200.8893",
+    "PublicIP": "31.207.57.24",
+    "OSArchitecture": "64-bit",
+    "OSPlatform": "Windows11",
+    "OSBuild": 26200,
+    "IsAzureADJoined": 1,
+    "JoinType": "Hybrid Azure AD Join",
+    "AadDeviceId": "30fba313-588f-5cbb-aa11-3651e8347af9",
+    "LoggedOnUsers": [
+      {
+        "UserName": "user04",
+        "DomainName": "XYZ",
+        "Sid": "S-1-5-21-1105393054-1623902046-1723320406-153604"
+      }
+    ],
+    "OSVersion": "10",
+    "MachineGroup": "DeviceGroup 1",
+    "ReportId": 639244023230075689,
+    "OnboardingStatus": "Onboarded",
+    "DeviceCategory": "Endpoint",
+    "DeviceType": "Workstation",
+    "DeviceSubtype": "Workstation",
+    "OSDistribution": "Windows11",
+    "OSVersionInfo": "Windows 11",
+    "SensorHealthState": "Active",
+    "IsExcluded": 0,
+    "ExposureLevel": "Low",
+    "DeviceDynamicTags": [
+      "XYZ Domain Joined"
+    ],
+    "HardwareUuid": "f402f53a-8b7b-50be-80f4-c148ed463871",
+    "IsTransient": 0,
+    "OsBuildRevision": 8893,
+    "ConnectivityType": "Standard",
+    "DlpInfo": {
+      "IsDlpConfigurationValid": true,
+      "DlpPolicyLastModifiedTimeUTC": "2026-08-29T02:01:54.1998261Z",
+      "IsDlpEnabled": true,
+      "IsDefenderRealTimeProtectionEnabled": true,
+      "IsDefenderBehaviorMonitoringEnabled": true,
+      "HasDlpACBandwidthExceeded": false,
+      "HasDlpValidUpn": true,
+      "DlpUpn": "user04@xyz.com"
+    },
+    "DiscoverySources": {
+      "Defender for Endpoint": "2026-09-07"
+    },
+    "DeviceRoles": {},
+    "Type": "DeviceInfo"
+  },
+  {
+    "TimeGenerated": "2026-09-08T02:17:09Z",
+    "Timestamp": "2026-09-08T02:17:09Z",
+    "DeviceId": 5,
+    "DeviceName": "Device5",
+    "ClientVersion": "10.8830.26200.8893",
+    "PublicIP": "31.207.57.25",
+    "OSArchitecture": "64-bit",
+    "OSPlatform": "Windows11",
+    "OSBuild": 26200,
+    "IsAzureADJoined": 1,
+    "JoinType": "Hybrid Azure AD Join",
+    "AadDeviceId": "2003f875-cccb-5c5c-8843-859d61e1a3c3",
+    "LoggedOnUsers": [
+      {
+        "UserName": "user05",
+        "DomainName": "XYZ",
+        "Sid": "S-1-5-21-1105393054-1623902046-1723320406-153605"
+      }
+    ],
+    "OSVersion": "10",
+    "MachineGroup": "DeviceGroup 1",
+    "ReportId": 639244023230075690,
+    "OnboardingStatus": "Onboarded",
+    "DeviceCategory": "Endpoint",
+    "DeviceType": "Workstation",
+    "DeviceSubtype": "Workstation",
+    "OSDistribution": "Windows11",
+    "OSVersionInfo": "Windows 11",
+    "SensorHealthState": "Active",
+    "IsExcluded": 0,
+    "ExposureLevel": "Medium",
+    "DeviceDynamicTags": [
+      "XYZ Domain Joined"
+    ],
+    "HardwareUuid": "9116533a-8bc2-56a1-b331-d433fb4a0378",
+    "IsTransient": 0,
+    "OsBuildRevision": 8893,
+    "ConnectivityType": "Standard",
+    "DlpInfo": {
+      "IsDlpConfigurationValid": true,
+      "DlpPolicyLastModifiedTimeUTC": "2026-08-29T02:01:54.1998261Z",
+      "IsDlpEnabled": true,
+      "IsDefenderRealTimeProtectionEnabled": true,
+      "IsDefenderBehaviorMonitoringEnabled": true,
+      "HasDlpACBandwidthExceeded": false,
+      "HasDlpValidUpn": true,
+      "DlpUpn": "user05@xyz.com"
+    },
+    "DiscoverySources": {
+      "Defender for Endpoint": "2026-09-07"
+    },
+    "DeviceRoles": {},
+    "Type": "DeviceInfo"
+  },
+  {
+    "TimeGenerated": "2026-09-08T02:17:09Z",
+    "Timestamp": "2026-09-08T02:17:09Z",
+    "DeviceId": 6,
+    "DeviceName": "Device6",
+    "ClientVersion": "10.8830.26200.8893",
+    "PublicIP": "31.207.57.26",
+    "OSArchitecture": "64-bit",
+    "OSPlatform": "Windows11",
+    "OSBuild": 26200,
+    "IsAzureADJoined": 1,
+    "JoinType": "Hybrid Azure AD Join",
+    "AadDeviceId": "01647cf7-4f6b-5e1d-8367-b190d74af7de",
+    "LoggedOnUsers": [
+      {
+        "UserName": "user06",
+        "DomainName": "XYZ",
+        "Sid": "S-1-5-21-1105393054-1623902046-1723320406-153606"
+      }
+    ],
+    "OSVersion": "10",
+    "MachineGroup": "DeviceGroup 1",
+    "ReportId": 639244023230075691,
+    "OnboardingStatus": "Onboarded",
+    "DeviceCategory": "Endpoint",
+    "DeviceType": "Workstation",
+    "DeviceSubtype": "Workstation",
+    "OSDistribution": "Windows11",
+    "OSVersionInfo": "Windows 11",
+    "SensorHealthState": "Active",
+    "IsExcluded": 0,
+    "ExposureLevel": "High",
+    "DeviceDynamicTags": [
+      "XYZ Domain Joined"
+    ],
+    "HardwareUuid": "464f3349-4ba3-51ba-b34a-12b61f1b8692",
+    "IsTransient": 0,
+    "OsBuildRevision": 8893,
+    "ConnectivityType": "Standard",
+    "DlpInfo": {
+      "IsDlpConfigurationValid": true,
+      "DlpPolicyLastModifiedTimeUTC": "2026-08-29T02:01:54.1998261Z",
+      "IsDlpEnabled": true,
+      "IsDefenderRealTimeProtectionEnabled": true,
+      "IsDefenderBehaviorMonitoringEnabled": true,
+      "HasDlpACBandwidthExceeded": false,
+      "HasDlpValidUpn": true,
+      "DlpUpn": "user06@xyz.com"
+    },
+    "DiscoverySources": {
+      "Defender for Endpoint": "2026-09-07"
+    },
+    "DeviceRoles": {},
+    "Type": "DeviceInfo"
+  },
+  {
+    "TimeGenerated": "2026-09-08T02:17:09Z",
+    "Timestamp": "2026-09-08T02:17:09Z",
+    "DeviceId": 7,
+    "DeviceName": "Device7",
+    "ClientVersion": "10.8830.26200.8893",
+    "PublicIP": "31.207.57.27",
+    "OSArchitecture": "64-bit",
+    "OSPlatform": "Windows11",
+    "OSBuild": 26200,
+    "IsAzureADJoined": 1,
+    "JoinType": "Hybrid Azure AD Join",
+    "AadDeviceId": "6cb80e41-3f8f-5634-9a46-adad3bb904fd",
+    "LoggedOnUsers": [
+      {
+        "UserName": "user07",
+        "DomainName": "XYZ",
+        "Sid": "S-1-5-21-1105393054-1623902046-1723320406-153607"
+      }
+    ],
+    "OSVersion": "10",
+    "MachineGroup": "DeviceGroup 1",
+    "ReportId": 639244023230075692,
+    "OnboardingStatus": "Onboarded",
+    "DeviceCategory": "Endpoint",
+    "DeviceType": "Workstation",
+    "DeviceSubtype": "Workstation",
+    "OSDistribution": "Windows11",
+    "OSVersionInfo": "Windows 11",
+    "SensorHealthState": "Active",
+    "IsExcluded": 0,
+    "ExposureLevel": "Low",
+    "DeviceDynamicTags": [
+      "XYZ Domain Joined"
+    ],
+    "HardwareUuid": "8a77f563-1dc6-5ac1-8633-f2c29aa63a06",
+    "IsTransient": 0,
+    "OsBuildRevision": 8893,
+    "ConnectivityType": "Standard",
+    "DlpInfo": {
+      "IsDlpConfigurationValid": true,
+      "DlpPolicyLastModifiedTimeUTC": "2026-08-29T02:01:54.1998261Z",
+      "IsDlpEnabled": true,
+      "IsDefenderRealTimeProtectionEnabled": true,
+      "IsDefenderBehaviorMonitoringEnabled": true,
+      "HasDlpACBandwidthExceeded": false,
+      "HasDlpValidUpn": true,
+      "DlpUpn": "user07@xyz.com"
+    },
+    "DiscoverySources": {
+      "Defender for Endpoint": "2026-09-07"
+    },
+    "DeviceRoles": {},
+    "Type": "DeviceInfo"
+  },
+  {
+    "TimeGenerated": "2026-09-08T02:17:09Z",
+    "Timestamp": "2026-09-08T02:17:09Z",
+    "DeviceId": 8,
+    "DeviceName": "Device8",
+    "ClientVersion": "10.8830.26200.8893",
+    "PublicIP": "31.207.57.28",
+    "OSArchitecture": "64-bit",
+    "OSPlatform": "Windows11",
+    "OSBuild": 26200,
+    "IsAzureADJoined": 1,
+    "JoinType": "Hybrid Azure AD Join",
+    "AadDeviceId": "a43dffa9-5116-547d-89d1-3c095835d9ee",
+    "LoggedOnUsers": [
+      {
+        "UserName": "user08",
+        "DomainName": "XYZ",
+        "Sid": "S-1-5-21-1105393054-1623902046-1723320406-153608"
+      }
+    ],
+    "OSVersion": "10",
+    "MachineGroup": "DeviceGroup 1",
+    "ReportId": 639244023230075693,
+    "OnboardingStatus": "Onboarded",
+    "DeviceCategory": "Endpoint",
+    "DeviceType": "Workstation",
+    "DeviceSubtype": "Workstation",
+    "OSDistribution": "Windows11",
+    "OSVersionInfo": "Windows 11",
+    "SensorHealthState": "Active",
+    "IsExcluded": 0,
+    "ExposureLevel": "Medium",
+    "DeviceDynamicTags": [
+      "XYZ Domain Joined"
+    ],
+    "HardwareUuid": "ae51a4be-75f4-5b5c-8822-ed17f263daf5",
+    "IsTransient": 0,
+    "OsBuildRevision": 8893,
+    "ConnectivityType": "Standard",
+    "DlpInfo": {
+      "IsDlpConfigurationValid": true,
+      "DlpPolicyLastModifiedTimeUTC": "2026-08-29T02:01:54.1998261Z",
+      "IsDlpEnabled": true,
+      "IsDefenderRealTimeProtectionEnabled": true,
+      "IsDefenderBehaviorMonitoringEnabled": true,
+      "HasDlpACBandwidthExceeded": false,
+      "HasDlpValidUpn": true,
+      "DlpUpn": "user08@xyz.com"
+    },
+    "DiscoverySources": {
+      "Defender for Endpoint": "2026-09-07"
+    },
+    "DeviceRoles": {},
+    "Type": "DeviceInfo"
+  },
+  {
+    "TimeGenerated": "2026-09-08T02:17:09Z",
+    "Timestamp": "2026-09-08T02:17:09Z",
+    "DeviceId": 9,
+    "DeviceName": "Device9",
+    "ClientVersion": "10.8830.26200.8893",
+    "PublicIP": "31.207.57.29",
+    "OSArchitecture": "64-bit",
+    "OSPlatform": "Windows11",
+    "OSBuild": 26200,
+    "IsAzureADJoined": 1,
+    "JoinType": "Hybrid Azure AD Join",
+    "AadDeviceId": "b85ef6d7-1d71-5424-87f0-aded3548d2ed",
+    "LoggedOnUsers": [
+      {
+        "UserName": "user09",
+        "DomainName": "XYZ",
+        "Sid": "S-1-5-21-1105393054-1623902046-1723320406-153609"
+      }
+    ],
+    "OSVersion": "10",
+    "MachineGroup": "DeviceGroup 1",
+    "ReportId": 639244023230075694,
+    "OnboardingStatus": "Onboarded",
+    "DeviceCategory": "Endpoint",
+    "DeviceType": "Workstation",
+    "DeviceSubtype": "Workstation",
+    "OSDistribution": "Windows11",
+    "OSVersionInfo": "Windows 11",
+    "SensorHealthState": "Active",
+    "IsExcluded": 0,
+    "ExposureLevel": "High",
+    "DeviceDynamicTags": [
+      "XYZ Domain Joined"
+    ],
+    "HardwareUuid": "7825a974-e36b-5e77-b20b-50d5872a8944",
+    "IsTransient": 0,
+    "OsBuildRevision": 8893,
+    "ConnectivityType": "Standard",
+    "DlpInfo": {
+      "IsDlpConfigurationValid": true,
+      "DlpPolicyLastModifiedTimeUTC": "2026-08-29T02:01:54.1998261Z",
+      "IsDlpEnabled": true,
+      "IsDefenderRealTimeProtectionEnabled": true,
+      "IsDefenderBehaviorMonitoringEnabled": true,
+      "HasDlpACBandwidthExceeded": false,
+      "HasDlpValidUpn": true,
+      "DlpUpn": "user09@xyz.com"
+    },
+    "DiscoverySources": {
+      "Defender for Endpoint": "2026-09-07"
+    },
+    "DeviceRoles": {},
+    "Type": "DeviceInfo"
+  },
+  {
+    "TimeGenerated": "2026-09-08T02:17:09Z",
+    "Timestamp": "2026-09-08T02:17:09Z",
+    "DeviceId": "000000000000000000000000000000000000000a",
+    "DeviceName": "Device10",
+    "ClientVersion": "10.8830.26200.8893",
+    "PublicIP": "31.207.57.30",
+    "OSArchitecture": "64-bit",
+    "OSPlatform": "Windows11",
+    "OSBuild": 26200,
+    "IsAzureADJoined": 1,
+    "JoinType": "Hybrid Azure AD Join",
+    "AadDeviceId": "5bed4e1a-5d6c-5c98-a370-1bf9e971bd3f",
+    "LoggedOnUsers": [
+      {
+        "UserName": "user10",
+        "DomainName": "XYZ",
+        "Sid": "S-1-5-21-1105393054-1623902046-1723320406-153610"
+      }
+    ],
+    "OSVersion": "10",
+    "MachineGroup": "DeviceGroup 1",
+    "ReportId": 639244023230075695,
+    "OnboardingStatus": "Onboarded",
+    "DeviceCategory": "Endpoint",
+    "DeviceType": "Workstation",
+    "DeviceSubtype": "Workstation",
+    "OSDistribution": "Windows11",
+    "OSVersionInfo": "Windows 11",
+    "SensorHealthState": "Active",
+    "IsExcluded": 0,
+    "ExposureLevel": "Low",
+    "DeviceDynamicTags": [
+      "XYZ Domain Joined"
+    ],
+    "HardwareUuid": "938388f0-5e67-5725-b666-efa4348019bd",
+    "IsTransient": 0,
+    "OsBuildRevision": 8893,
+    "ConnectivityType": "Standard",
+    "DlpInfo": {
+      "IsDlpConfigurationValid": true,
+      "DlpPolicyLastModifiedTimeUTC": "2026-08-29T02:01:54.1998261Z",
+      "IsDlpEnabled": true,
+      "IsDefenderRealTimeProtectionEnabled": true,
+      "IsDefenderBehaviorMonitoringEnabled": true,
+      "HasDlpACBandwidthExceeded": false,
+      "HasDlpValidUpn": true,
+      "DlpUpn": "user10@xyz.com"
+    },
+    "DiscoverySources": {
+      "Defender for Endpoint": "2026-09-07"
+    },
+    "DeviceRoles": {},
+    "Type": "DeviceInfo"
+  },
+  {
+    "TimeGenerated": "2026-09-08T02:17:09Z",
+    "Timestamp": "2026-09-08T02:17:09Z",
+    "DeviceId": "000000000000000000000000000000000000000b",
+    "DeviceName": "Device11",
+    "ClientVersion": "10.8830.26200.8893",
+    "PublicIP": "31.207.57.31",
+    "OSArchitecture": "64-bit",
+    "OSPlatform": "Windows11",
+    "OSBuild": 26200,
+    "IsAzureADJoined": 1,
+    "JoinType": "Hybrid Azure AD Join",
+    "AadDeviceId": "60244a8a-e788-5c25-8389-336f3a0fb5e8",
+    "LoggedOnUsers": [
+      {
+        "UserName": "user11",
+        "DomainName": "XYZ",
+        "Sid": "S-1-5-21-1105393054-1623902046-1723320406-153611"
+      }
+    ],
+    "OSVersion": "10",
+    "MachineGroup": "DeviceGroup 2",
+    "ReportId": 639244023230075696,
+    "OnboardingStatus": "Onboarded",
+    "DeviceCategory": "Endpoint",
+    "DeviceType": "Workstation",
+    "DeviceSubtype": "Workstation",
+    "OSDistribution": "Windows11",
+    "OSVersionInfo": "Windows 11",
+    "SensorHealthState": "Active",
+    "IsExcluded": 0,
+    "ExposureLevel": "Medium",
+    "DeviceDynamicTags": [
+      "XYZ Domain Joined"
+    ],
+    "HardwareUuid": "030bcd6a-37f6-52aa-a0c2-63b625e4ae0c",
+    "IsTransient": 0,
+    "OsBuildRevision": 8893,
+    "ConnectivityType": "Standard",
+    "DlpInfo": {
+      "IsDlpConfigurationValid": true,
+      "DlpPolicyLastModifiedTimeUTC": "2026-08-29T02:01:54.1998261Z",
+      "IsDlpEnabled": true,
+      "IsDefenderRealTimeProtectionEnabled": true,
+      "IsDefenderBehaviorMonitoringEnabled": true,
+      "HasDlpACBandwidthExceeded": false,
+      "HasDlpValidUpn": true,
+      "DlpUpn": "user11@xyz.com"
+    },
+    "DiscoverySources": {
+      "Defender for Endpoint": "2026-09-07"
+    },
+    "DeviceRoles": {},
+    "Type": "DeviceInfo"
+  },
+  {
+    "TimeGenerated": "2026-09-08T02:17:09Z",
+    "Timestamp": "2026-09-08T02:17:09Z",
+    "DeviceId": "000000000000000000000000000000000000000c",
+    "DeviceName": "Device12",
+    "ClientVersion": "10.8830.26200.8893",
+    "PublicIP": "31.207.57.32",
+    "OSArchitecture": "64-bit",
+    "OSPlatform": "Windows11",
+    "OSBuild": 26200,
+    "IsAzureADJoined": 1,
+    "JoinType": "Hybrid Azure AD Join",
+    "AadDeviceId": "039d2a96-5e80-5728-b99b-892aaa1f06a2",
+    "LoggedOnUsers": [
+      {
+        "UserName": "user12",
+        "DomainName": "XYZ",
+        "Sid": "S-1-5-21-1105393054-1623902046-1723320406-153612"
+      }
+    ],
+    "OSVersion": "10",
+    "MachineGroup": "DeviceGroup 2",
+    "ReportId": 639244023230075697,
+    "OnboardingStatus": "Onboarded",
+    "DeviceCategory": "Endpoint",
+    "DeviceType": "Workstation",
+    "DeviceSubtype": "Workstation",
+    "OSDistribution": "Windows11",
+    "OSVersionInfo": "Windows 11",
+    "SensorHealthState": "Active",
+    "IsExcluded": 0,
+    "ExposureLevel": "High",
+    "DeviceDynamicTags": [
+      "XYZ Domain Joined"
+    ],
+    "HardwareUuid": "5b2230b4-a5cc-5caa-a71f-bde56c392813",
+    "IsTransient": 0,
+    "OsBuildRevision": 8893,
+    "ConnectivityType": "Standard",
+    "DlpInfo": {
+      "IsDlpConfigurationValid": true,
+      "DlpPolicyLastModifiedTimeUTC": "2026-08-29T02:01:54.1998261Z",
+      "IsDlpEnabled": true,
+      "IsDefenderRealTimeProtectionEnabled": true,
+      "IsDefenderBehaviorMonitoringEnabled": true,
+      "HasDlpACBandwidthExceeded": false,
+      "HasDlpValidUpn": true,
+      "DlpUpn": "user12@xyz.com"
+    },
+    "DiscoverySources": {
+      "Defender for Endpoint": "2026-09-07"
+    },
+    "DeviceRoles": {},
+    "Type": "DeviceInfo"
+  },
+  {
+    "TimeGenerated": "2026-09-08T02:17:09Z",
+    "Timestamp": "2026-09-08T02:17:09Z",
+    "DeviceId": "000000000000000000000000000000000000000d",
+    "DeviceName": "Device13",
+    "ClientVersion": "10.8830.26200.8893",
+    "PublicIP": "31.207.57.33",
+    "OSArchitecture": "64-bit",
+    "OSPlatform": "Windows11",
+    "OSBuild": 26200,
+    "IsAzureADJoined": 1,
+    "JoinType": "Hybrid Azure AD Join",
+    "AadDeviceId": "a4b29306-2f7e-512b-9615-ef3a3251af9d",
+    "LoggedOnUsers": [
+      {
+        "UserName": "user13",
+        "DomainName": "XYZ",
+        "Sid": "S-1-5-21-1105393054-1623902046-1723320406-153613"
+      }
+    ],
+    "OSVersion": "10",
+    "MachineGroup": "DeviceGroup 2",
+    "ReportId": 639244023230075698,
+    "OnboardingStatus": "Onboarded",
+    "DeviceCategory": "Endpoint",
+    "DeviceType": "Workstation",
+    "DeviceSubtype": "Workstation",
+    "OSDistribution": "Windows11",
+    "OSVersionInfo": "Windows 11",
+    "SensorHealthState": "Active",
+    "IsExcluded": 0,
+    "ExposureLevel": "Low",
+    "DeviceDynamicTags": [
+      "XYZ Domain Joined"
+    ],
+    "HardwareUuid": "5a73bc63-9098-5e0a-be2f-b94538204c45",
+    "IsTransient": 0,
+    "OsBuildRevision": 8893,
+    "ConnectivityType": "Standard",
+    "DlpInfo": {
+      "IsDlpConfigurationValid": true,
+      "DlpPolicyLastModifiedTimeUTC": "2026-08-29T02:01:54.1998261Z",
+      "IsDlpEnabled": true,
+      "IsDefenderRealTimeProtectionEnabled": true,
+      "IsDefenderBehaviorMonitoringEnabled": true,
+      "HasDlpACBandwidthExceeded": false,
+      "HasDlpValidUpn": true,
+      "DlpUpn": "user13@xyz.com"
+    },
+    "DiscoverySources": {
+      "Defender for Endpoint": "2026-09-07"
+    },
+    "DeviceRoles": {},
+    "Type": "DeviceInfo"
+  },
+  {
+    "TimeGenerated": "2026-09-08T02:17:09Z",
+    "Timestamp": "2026-09-08T02:17:09Z",
+    "DeviceId": "000000000000000000000000000000000000000e",
+    "DeviceName": "Device14",
+    "ClientVersion": "10.8830.26200.8893",
+    "PublicIP": "31.207.57.34",
+    "OSArchitecture": "64-bit",
+    "OSPlatform": "Windows11",
+    "OSBuild": 26200,
+    "IsAzureADJoined": 1,
+    "JoinType": "Hybrid Azure AD Join",
+    "AadDeviceId": "590ce1b9-afde-5498-bf10-f76d42a8fb4a",
+    "LoggedOnUsers": [
+      {
+        "UserName": "user14",
+        "DomainName": "XYZ",
+        "Sid": "S-1-5-21-1105393054-1623902046-1723320406-153614"
+      }
+    ],
+    "OSVersion": "10",
+    "MachineGroup": "DeviceGroup 2",
+    "ReportId": 639244023230075699,
+    "OnboardingStatus": "Onboarded",
+    "DeviceCategory": "Endpoint",
+    "DeviceType": "Workstation",
+    "DeviceSubtype": "Workstation",
+    "OSDistribution": "Windows11",
+    "OSVersionInfo": "Windows 11",
+    "SensorHealthState": "Active",
+    "IsExcluded": 0,
+    "ExposureLevel": "Medium",
+    "DeviceDynamicTags": [
+      "XYZ Domain Joined"
+    ],
+    "HardwareUuid": "7058a34e-5824-58e5-a454-6cfd7e07f5e7",
+    "IsTransient": 0,
+    "OsBuildRevision": 8893,
+    "ConnectivityType": "Standard",
+    "DlpInfo": {
+      "IsDlpConfigurationValid": true,
+      "DlpPolicyLastModifiedTimeUTC": "2026-08-29T02:01:54.1998261Z",
+      "IsDlpEnabled": true,
+      "IsDefenderRealTimeProtectionEnabled": true,
+      "IsDefenderBehaviorMonitoringEnabled": true,
+      "HasDlpACBandwidthExceeded": false,
+      "HasDlpValidUpn": true,
+      "DlpUpn": "user14@xyz.com"
+    },
+    "DiscoverySources": {
+      "Defender for Endpoint": "2026-09-07"
+    },
+    "DeviceRoles": {},
+    "Type": "DeviceInfo"
+  },
+  {
+    "TimeGenerated": "2026-09-08T02:17:09Z",
+    "Timestamp": "2026-09-08T02:17:09Z",
+    "DeviceId": "000000000000000000000000000000000000000f",
+    "DeviceName": "Device15",
+    "ClientVersion": "10.8830.26200.8893",
+    "PublicIP": "31.207.57.35",
+    "OSArchitecture": "64-bit",
+    "OSPlatform": "Windows11",
+    "OSBuild": 26200,
+    "IsAzureADJoined": 1,
+    "JoinType": "Hybrid Azure AD Join",
+    "AadDeviceId": "25ac0733-1477-53e7-b29c-2fad0dab5118",
+    "LoggedOnUsers": [
+      {
+        "UserName": "user15",
+        "DomainName": "XYZ",
+        "Sid": "S-1-5-21-1105393054-1623902046-1723320406-153615"
+      }
+    ],
+    "OSVersion": "10",
+    "MachineGroup": "DeviceGroup 2",
+    "ReportId": 639244023230075700,
+    "OnboardingStatus": "Onboarded",
+    "DeviceCategory": "Endpoint",
+    "DeviceType": "Workstation",
+    "DeviceSubtype": "Workstation",
+    "OSDistribution": "Windows11",
+    "OSVersionInfo": "Windows 11",
+    "SensorHealthState": "Active",
+    "IsExcluded": 0,
+    "ExposureLevel": "High",
+    "DeviceDynamicTags": [
+      "XYZ Domain Joined"
+    ],
+    "HardwareUuid": "65bf217e-ca7a-58bb-9c68-e488ffc4676c",
+    "IsTransient": 0,
+    "OsBuildRevision": 8893,
+    "ConnectivityType": "Standard",
+    "DlpInfo": {
+      "IsDlpConfigurationValid": true,
+      "DlpPolicyLastModifiedTimeUTC": "2026-08-29T02:01:54.1998261Z",
+      "IsDlpEnabled": true,
+      "IsDefenderRealTimeProtectionEnabled": true,
+      "IsDefenderBehaviorMonitoringEnabled": true,
+      "HasDlpACBandwidthExceeded": false,
+      "HasDlpValidUpn": true,
+      "DlpUpn": "user15@xyz.com"
+    },
+    "DiscoverySources": {
+      "Defender for Endpoint": "2026-09-07"
+    },
+    "DeviceRoles": {},
+    "Type": "DeviceInfo"
+  },
+  {
+    "TimeGenerated": "2026-09-08T02:17:09Z",
+    "Timestamp": "2026-09-08T02:17:09Z",
+    "DeviceId": 10,
+    "DeviceName": "Device16",
+    "ClientVersion": "10.8830.26200.8893",
+    "PublicIP": "31.207.57.36",
+    "OSArchitecture": "64-bit",
+    "OSPlatform": "Windows11",
+    "OSBuild": 26200,
+    "IsAzureADJoined": 1,
+    "JoinType": "Hybrid Azure AD Join",
+    "AadDeviceId": "3b6bbeda-7e7b-5f00-a178-83d20a36b6b2",
+    "LoggedOnUsers": [
+      {
+        "UserName": "user16",
+        "DomainName": "XYZ",
+        "Sid": "S-1-5-21-1105393054-1623902046-1723320406-153616"
+      }
+    ],
+    "OSVersion": "10",
+    "MachineGroup": "DeviceGroup 2",
+    "ReportId": 639244023230075701,
+    "OnboardingStatus": "Onboarded",
+    "DeviceCategory": "Endpoint",
+    "DeviceType": "Workstation",
+    "DeviceSubtype": "Workstation",
+    "OSDistribution": "Windows11",
+    "OSVersionInfo": "Windows 11",
+    "SensorHealthState": "Active",
+    "IsExcluded": 0,
+    "ExposureLevel": "Low",
+    "DeviceDynamicTags": [
+      "XYZ Domain Joined"
+    ],
+    "HardwareUuid": "9102ae31-d402-5d92-a4e0-028a74ea00b5",
+    "IsTransient": 0,
+    "OsBuildRevision": 8893,
+    "ConnectivityType": "Standard",
+    "DlpInfo": {
+      "IsDlpConfigurationValid": true,
+      "DlpPolicyLastModifiedTimeUTC": "2026-08-29T02:01:54.1998261Z",
+      "IsDlpEnabled": true,
+      "IsDefenderRealTimeProtectionEnabled": true,
+      "IsDefenderBehaviorMonitoringEnabled": true,
+      "HasDlpACBandwidthExceeded": false,
+      "HasDlpValidUpn": true,
+      "DlpUpn": "user16@xyz.com"
+    },
+    "DiscoverySources": {
+      "Defender for Endpoint": "2026-09-07"
+    },
+    "DeviceRoles": {},
+    "Type": "DeviceInfo"
+  },
+  {
+    "TimeGenerated": "2026-09-08T02:17:09Z",
+    "Timestamp": "2026-09-08T02:17:09Z",
+    "DeviceId": 11,
+    "DeviceName": "Device17",
+    "ClientVersion": "10.8830.26200.8893",
+    "PublicIP": "31.207.57.37",
+    "OSArchitecture": "64-bit",
+    "OSPlatform": "Windows11",
+    "OSBuild": 26200,
+    "IsAzureADJoined": 1,
+    "JoinType": "Hybrid Azure AD Join",
+    "AadDeviceId": "16ab2cf6-6750-51c4-961c-a26b90bf7f92",
+    "LoggedOnUsers": [
+      {
+        "UserName": "user17",
+        "DomainName": "XYZ",
+        "Sid": "S-1-5-21-1105393054-1623902046-1723320406-153617"
+      }
+    ],
+    "OSVersion": "10",
+    "MachineGroup": "DeviceGroup 2",
+    "ReportId": 639244023230075702,
+    "OnboardingStatus": "Onboarded",
+    "DeviceCategory": "Endpoint",
+    "DeviceType": "Workstation",
+    "DeviceSubtype": "Workstation",
+    "OSDistribution": "Windows11",
+    "OSVersionInfo": "Windows 11",
+    "SensorHealthState": "Active",
+    "IsExcluded": 0,
+    "ExposureLevel": "Medium",
+    "DeviceDynamicTags": [
+      "XYZ Domain Joined"
+    ],
+    "HardwareUuid": "12b3c3fc-bc43-5bf4-9a82-605839d08ffa",
+    "IsTransient": 0,
+    "OsBuildRevision": 8893,
+    "ConnectivityType": "Standard",
+    "DlpInfo": {
+      "IsDlpConfigurationValid": true,
+      "DlpPolicyLastModifiedTimeUTC": "2026-08-29T02:01:54.1998261Z",
+      "IsDlpEnabled": true,
+      "IsDefenderRealTimeProtectionEnabled": true,
+      "IsDefenderBehaviorMonitoringEnabled": true,
+      "HasDlpACBandwidthExceeded": false,
+      "HasDlpValidUpn": true,
+      "DlpUpn": "user17@xyz.com"
+    },
+    "DiscoverySources": {
+      "Defender for Endpoint": "2026-09-07"
+    },
+    "DeviceRoles": {},
+    "Type": "DeviceInfo"
+  },
+  {
+    "TimeGenerated": "2026-09-08T02:17:09Z",
+    "Timestamp": "2026-09-08T02:17:09Z",
+    "DeviceId": 12,
+    "DeviceName": "Device18",
+    "ClientVersion": "10.8830.26200.8893",
+    "PublicIP": "31.207.57.38",
+    "OSArchitecture": "64-bit",
+    "OSPlatform": "Windows11",
+    "OSBuild": 26200,
+    "IsAzureADJoined": 1,
+    "JoinType": "Hybrid Azure AD Join",
+    "AadDeviceId": "290b4228-6c43-52b4-a291-93c363efca95",
+    "LoggedOnUsers": [
+      {
+        "UserName": "user18",
+        "DomainName": "XYZ",
+        "Sid": "S-1-5-21-1105393054-1623902046-1723320406-153618"
+      }
+    ],
+    "OSVersion": "10",
+    "MachineGroup": "DeviceGroup 2",
+    "ReportId": 639244023230075703,
+    "OnboardingStatus": "Onboarded",
+    "DeviceCategory": "Endpoint",
+    "DeviceType": "Workstation",
+    "DeviceSubtype": "Workstation",
+    "OSDistribution": "Windows11",
+    "OSVersionInfo": "Windows 11",
+    "SensorHealthState": "Active",
+    "IsExcluded": 0,
+    "ExposureLevel": "High",
+    "DeviceDynamicTags": [
+      "XYZ Domain Joined"
+    ],
+    "HardwareUuid": "3d1b2c94-03f2-5886-95ea-22f48bc6d5b5",
+    "IsTransient": 0,
+    "OsBuildRevision": 8893,
+    "ConnectivityType": "Standard",
+    "DlpInfo": {
+      "IsDlpConfigurationValid": true,
+      "DlpPolicyLastModifiedTimeUTC": "2026-08-29T02:01:54.1998261Z",
+      "IsDlpEnabled": true,
+      "IsDefenderRealTimeProtectionEnabled": true,
+      "IsDefenderBehaviorMonitoringEnabled": true,
+      "HasDlpACBandwidthExceeded": false,
+      "HasDlpValidUpn": true,
+      "DlpUpn": "user18@xyz.com"
+    },
+    "DiscoverySources": {
+      "Defender for Endpoint": "2026-09-07"
+    },
+    "DeviceRoles": {},
+    "Type": "DeviceInfo"
+  },
+  {
+    "TimeGenerated": "2026-09-08T02:17:09Z",
+    "Timestamp": "2026-09-08T02:17:09Z",
+    "DeviceId": 13,
+    "DeviceName": "Device19",
+    "ClientVersion": "10.8830.26200.8893",
+    "PublicIP": "31.207.57.39",
+    "OSArchitecture": "64-bit",
+    "OSPlatform": "Windows11",
+    "OSBuild": 26200,
+    "IsAzureADJoined": 1,
+    "JoinType": "Hybrid Azure AD Join",
+    "AadDeviceId": "ae2d73ad-3591-5fd3-be10-d5ceb0d84bfd",
+    "LoggedOnUsers": [
+      {
+        "UserName": "user19",
+        "DomainName": "XYZ",
+        "Sid": "S-1-5-21-1105393054-1623902046-1723320406-153619"
+      }
+    ],
+    "OSVersion": "10",
+    "MachineGroup": "DeviceGroup 2",
+    "ReportId": 639244023230075704,
+    "OnboardingStatus": "Onboarded",
+    "DeviceCategory": "Endpoint",
+    "DeviceType": "Workstation",
+    "DeviceSubtype": "Workstation",
+    "OSDistribution": "Windows11",
+    "OSVersionInfo": "Windows 11",
+    "SensorHealthState": "Active",
+    "IsExcluded": 0,
+    "ExposureLevel": "Low",
+    "DeviceDynamicTags": [
+      "XYZ Domain Joined"
+    ],
+    "HardwareUuid": "81864521-40e9-59bc-b90b-37d3485aa047",
+    "IsTransient": 0,
+    "OsBuildRevision": 8893,
+    "ConnectivityType": "Standard",
+    "DlpInfo": {
+      "IsDlpConfigurationValid": true,
+      "DlpPolicyLastModifiedTimeUTC": "2026-08-29T02:01:54.1998261Z",
+      "IsDlpEnabled": true,
+      "IsDefenderRealTimeProtectionEnabled": true,
+      "IsDefenderBehaviorMonitoringEnabled": true,
+      "HasDlpACBandwidthExceeded": false,
+      "HasDlpValidUpn": true,
+      "DlpUpn": "user19@xyz.com"
+    },
+    "DiscoverySources": {
+      "Defender for Endpoint": "2026-09-07"
+    },
+    "DeviceRoles": {},
+    "Type": "DeviceInfo"
+  },
+  {
+    "TimeGenerated": "2026-09-08T02:17:09Z",
+    "Timestamp": "2026-09-08T02:17:09Z",
+    "DeviceId": 14,
+    "DeviceName": "Device20",
+    "ClientVersion": "10.8830.26200.8893",
+    "PublicIP": "31.207.57.40",
+    "OSArchitecture": "64-bit",
+    "OSPlatform": "Windows11",
+    "OSBuild": 26200,
+    "IsAzureADJoined": 1,
+    "JoinType": "Hybrid Azure AD Join",
+    "AadDeviceId": "4fc7726e-c470-5f3d-a3fe-522624c7dee2",
+    "LoggedOnUsers": [
+      {
+        "UserName": "user20",
+        "DomainName": "XYZ",
+        "Sid": "S-1-5-21-1105393054-1623902046-1723320406-153620"
+      }
+    ],
+    "OSVersion": "10",
+    "MachineGroup": "DeviceGroup 2",
+    "ReportId": 639244023230075705,
+    "OnboardingStatus": "Onboarded",
+    "DeviceCategory": "Endpoint",
+    "DeviceType": "Workstation",
+    "DeviceSubtype": "Workstation",
+    "OSDistribution": "Windows11",
+    "OSVersionInfo": "Windows 11",
+    "SensorHealthState": "Active",
+    "IsExcluded": 0,
+    "ExposureLevel": "Medium",
+    "DeviceDynamicTags": [
+      "XYZ Domain Joined"
+    ],
+    "HardwareUuid": "2d5e720e-c1e0-5ced-8f01-6d25449dba42",
+    "IsTransient": 0,
+    "OsBuildRevision": 8893,
+    "ConnectivityType": "Standard",
+    "DlpInfo": {
+      "IsDlpConfigurationValid": true,
+      "DlpPolicyLastModifiedTimeUTC": "2026-08-29T02:01:54.1998261Z",
+      "IsDlpEnabled": true,
+      "IsDefenderRealTimeProtectionEnabled": true,
+      "IsDefenderBehaviorMonitoringEnabled": true,
+      "HasDlpACBandwidthExceeded": false,
+      "HasDlpValidUpn": true,
+      "DlpUpn": "user20@xyz.com"
+    },
+    "DiscoverySources": {
+      "Defender for Endpoint": "2026-09-07"
+    },
+    "DeviceRoles": {},
+    "Type": "DeviceInfo"
+  },
+  {
+    "TimeGenerated": "2026-09-08T02:17:09Z",
+    "Timestamp": "2026-09-08T02:17:09Z",
+    "DeviceId": 15,
+    "DeviceName": "Server1",
+    "ClientVersion": "10.8830.26100.6584",
+    "PublicIP": "31.207.57.41",
+    "OSArchitecture": "64-bit",
+    "OSPlatform": "WindowsServer2025",
+    "OSBuild": 26100,
+    "IsAzureADJoined": 1,
+    "JoinType": "Hybrid Azure AD Join",
+    "AadDeviceId": "2686b8a3-b74d-52f1-a8cd-6b8118c658bb",
+    "LoggedOnUsers": [
+      {
+        "UserName": "svc-server01",
+        "DomainName": "XYZ",
+        "Sid": "S-1-5-21-1105393054-1623902046-1723320406-153621"
+      }
+    ],
+    "OSVersion": "10",
+    "MachineGroup": "DeviceGroup 3",
+    "ReportId": 639244023230075706,
+    "OnboardingStatus": "Onboarded",
+    "DeviceCategory": "Server",
+    "DeviceType": "Server",
+    "DeviceSubtype": "Server",
+    "OSDistribution": "WindowsServer2025",
+    "OSVersionInfo": "Windows Server 2025",
+    "SensorHealthState": "Active",
+    "IsExcluded": 0,
+    "ExposureLevel": "High",
+    "DeviceDynamicTags": [
+      "XYZ Servers"
+    ],
+    "HardwareUuid": "e05855e5-92d7-5e43-916a-a6a236e23ff0",
+    "IsTransient": 0,
+    "OsBuildRevision": 6584,
+    "ConnectivityType": "Standard",
+    "DlpInfo": {
+      "IsDlpConfigurationValid": true,
+      "DlpPolicyLastModifiedTimeUTC": "2026-08-29T02:01:54.1998261Z",
+      "IsDlpEnabled": false,
+      "IsDefenderRealTimeProtectionEnabled": true,
+      "IsDefenderBehaviorMonitoringEnabled": true,
+      "HasDlpACBandwidthExceeded": false,
+      "HasDlpValidUpn": false,
+      "DlpUpn": ""
+    },
+    "DiscoverySources": {
+      "Defender for Endpoint": "2026-09-07"
+    },
+    "DeviceRoles": {},
+    "Type": "DeviceInfo"
+  },
+  {
+    "TimeGenerated": "2026-09-08T02:17:09Z",
+    "Timestamp": "2026-09-08T02:17:09Z",
+    "DeviceId": 16,
+    "DeviceName": "Server2",
+    "ClientVersion": "10.8830.26100.6584",
+    "PublicIP": "31.207.57.42",
+    "OSArchitecture": "64-bit",
+    "OSPlatform": "WindowsServer2025",
+    "OSBuild": 26100,
+    "IsAzureADJoined": 1,
+    "JoinType": "Hybrid Azure AD Join",
+    "AadDeviceId": "1823f268-fabb-59fb-96b6-2bc0e1d475ed",
+    "LoggedOnUsers": [
+      {
+        "UserName": "svc-server02",
+        "DomainName": "XYZ",
+        "Sid": "S-1-5-21-1105393054-1623902046-1723320406-153622"
+      }
+    ],
+    "OSVersion": "10",
+    "MachineGroup": "DeviceGroup 3",
+    "ReportId": 639244023230075707,
+    "OnboardingStatus": "Onboarded",
+    "DeviceCategory": "Server",
+    "DeviceType": "Server",
+    "DeviceSubtype": "Server",
+    "OSDistribution": "WindowsServer2025",
+    "OSVersionInfo": "Windows Server 2025",
+    "SensorHealthState": "Active",
+    "IsExcluded": 0,
+    "ExposureLevel": "Low",
+    "DeviceDynamicTags": [
+      "XYZ Servers"
+    ],
+    "HardwareUuid": "858da073-04c6-5180-aa38-59661b99a023",
+    "IsTransient": 0,
+    "OsBuildRevision": 6584,
+    "ConnectivityType": "Standard",
+    "DlpInfo": {
+      "IsDlpConfigurationValid": true,
+      "DlpPolicyLastModifiedTimeUTC": "2026-08-29T02:01:54.1998261Z",
+      "IsDlpEnabled": false,
+      "IsDefenderRealTimeProtectionEnabled": true,
+      "IsDefenderBehaviorMonitoringEnabled": true,
+      "HasDlpACBandwidthExceeded": false,
+      "HasDlpValidUpn": false,
+      "DlpUpn": ""
+    },
+    "DiscoverySources": {
+      "Defender for Endpoint": "2026-09-07"
+    },
+    "DeviceRoles": {},
+    "Type": "DeviceInfo"
+  },
+  {
+    "TimeGenerated": "2026-09-08T02:17:09Z",
+    "Timestamp": "2026-09-08T02:17:09Z",
+    "DeviceId": 17,
+    "DeviceName": "Server3",
+    "ClientVersion": "10.8830.26100.6584",
+    "PublicIP": "31.207.57.43",
+    "OSArchitecture": "64-bit",
+    "OSPlatform": "WindowsServer2025",
+    "OSBuild": 26100,
+    "IsAzureADJoined": 1,
+    "JoinType": "Hybrid Azure AD Join",
+    "AadDeviceId": "e7e5aafe-fce5-5d3e-bbbe-55a38c6eb016",
+    "LoggedOnUsers": [
+      {
+        "UserName": "svc-server03",
+        "DomainName": "XYZ",
+        "Sid": "S-1-5-21-1105393054-1623902046-1723320406-153623"
+      }
+    ],
+    "OSVersion": "10",
+    "MachineGroup": "DeviceGroup 3",
+    "ReportId": 639244023230075708,
+    "OnboardingStatus": "Onboarded",
+    "DeviceCategory": "Server",
+    "DeviceType": "Server",
+    "DeviceSubtype": "Server",
+    "OSDistribution": "WindowsServer2025",
+    "OSVersionInfo": "Windows Server 2025",
+    "SensorHealthState": "Active",
+    "IsExcluded": 0,
+    "ExposureLevel": "Medium",
+    "DeviceDynamicTags": [
+      "XYZ Servers"
+    ],
+    "HardwareUuid": "3fc0ac3f-2ec5-5945-a4e8-415c85f436a3",
+    "IsTransient": 0,
+    "OsBuildRevision": 6584,
+    "ConnectivityType": "Standard",
+    "DlpInfo": {
+      "IsDlpConfigurationValid": true,
+      "DlpPolicyLastModifiedTimeUTC": "2026-08-29T02:01:54.1998261Z",
+      "IsDlpEnabled": false,
+      "IsDefenderRealTimeProtectionEnabled": true,
+      "IsDefenderBehaviorMonitoringEnabled": true,
+      "HasDlpACBandwidthExceeded": false,
+      "HasDlpValidUpn": false,
+      "DlpUpn": ""
+    },
+    "DiscoverySources": {
+      "Defender for Endpoint": "2026-09-07"
+    },
+    "DeviceRoles": {},
+    "Type": "DeviceInfo"
+  },
+  {
+    "TimeGenerated": "2026-09-08T02:17:09Z",
+    "Timestamp": "2026-09-08T02:17:09Z",
+    "DeviceId": 18,
+    "DeviceName": "Server4",
+    "ClientVersion": "10.8830.26100.6584",
+    "PublicIP": "31.207.57.44",
+    "OSArchitecture": "64-bit",
+    "OSPlatform": "WindowsServer2025",
+    "OSBuild": 26100,
+    "IsAzureADJoined": 1,
+    "JoinType": "Hybrid Azure AD Join",
+    "AadDeviceId": "c67787ed-e941-5e03-8813-45ce77c762c8",
+    "LoggedOnUsers": [
+      {
+        "UserName": "svc-server04",
+        "DomainName": "XYZ",
+        "Sid": "S-1-5-21-1105393054-1623902046-1723320406-153624"
+      }
+    ],
+    "OSVersion": "10",
+    "MachineGroup": "DeviceGroup 3",
+    "ReportId": 639244023230075709,
+    "OnboardingStatus": "Onboarded",
+    "DeviceCategory": "Server",
+    "DeviceType": "Server",
+    "DeviceSubtype": "Server",
+    "OSDistribution": "WindowsServer2025",
+    "OSVersionInfo": "Windows Server 2025",
+    "SensorHealthState": "Active",
+    "IsExcluded": 0,
+    "ExposureLevel": "High",
+    "DeviceDynamicTags": [
+      "XYZ Servers"
+    ],
+    "HardwareUuid": "dffed1e9-6cfd-593d-95a8-805cd49a3753",
+    "IsTransient": 0,
+    "OsBuildRevision": 6584,
+    "ConnectivityType": "Standard",
+    "DlpInfo": {
+      "IsDlpConfigurationValid": true,
+      "DlpPolicyLastModifiedTimeUTC": "2026-08-29T02:01:54.1998261Z",
+      "IsDlpEnabled": false,
+      "IsDefenderRealTimeProtectionEnabled": true,
+      "IsDefenderBehaviorMonitoringEnabled": true,
+      "HasDlpACBandwidthExceeded": false,
+      "HasDlpValidUpn": false,
+      "DlpUpn": ""
+    },
+    "DiscoverySources": {
+      "Defender for Endpoint": "2026-09-07"
+    },
+    "DeviceRoles": {},
+    "Type": "DeviceInfo"
+  },
+  {
+    "TimeGenerated": "2026-09-08T02:17:09Z",
+    "Timestamp": "2026-09-08T02:17:09Z",
+    "DeviceId": 19,
+    "DeviceName": "Server5",
+    "ClientVersion": "10.8830.26100.6584",
+    "PublicIP": "31.207.57.45",
+    "OSArchitecture": "64-bit",
+    "OSPlatform": "WindowsServer2025",
+    "OSBuild": 26100,
+    "IsAzureADJoined": 1,
+    "JoinType": "Hybrid Azure AD Join",
+    "AadDeviceId": "569b9b8d-a498-5011-9ffa-341b16555dfb",
+    "LoggedOnUsers": [
+      {
+        "UserName": "svc-server05",
+        "DomainName": "XYZ",
+        "Sid": "S-1-5-21-1105393054-1623902046-1723320406-153625"
+      }
+    ],
+    "OSVersion": "10",
+    "MachineGroup": "DeviceGroup 3",
+    "ReportId": 639244023230075710,
+    "OnboardingStatus": "Onboarded",
+    "DeviceCategory": "Server",
+    "DeviceType": "Server",
+    "DeviceSubtype": "Server",
+    "OSDistribution": "WindowsServer2025",
+    "OSVersionInfo": "Windows Server 2025",
+    "SensorHealthState": "Active",
+    "IsExcluded": 0,
+    "ExposureLevel": "Low",
+    "DeviceDynamicTags": [
+      "XYZ Servers"
+    ],
+    "HardwareUuid": "d409587b-e899-5444-8375-57ef8c6086e0",
+    "IsTransient": 0,
+    "OsBuildRevision": 6584,
+    "ConnectivityType": "Standard",
+    "DlpInfo": {
+      "IsDlpConfigurationValid": true,
+      "DlpPolicyLastModifiedTimeUTC": "2026-08-29T02:01:54.1998261Z",
+      "IsDlpEnabled": false,
+      "IsDefenderRealTimeProtectionEnabled": true,
+      "IsDefenderBehaviorMonitoringEnabled": true,
+      "HasDlpACBandwidthExceeded": false,
+      "HasDlpValidUpn": false,
+      "DlpUpn": ""
+    },
+    "DiscoverySources": {
+      "Defender for Endpoint": "2026-09-07"
+    },
+    "DeviceRoles": {},
+    "Type": "DeviceInfo"
+  },
+  {
+    "TimeGenerated": "2026-09-08T02:17:09Z",
+    "Timestamp": "2026-09-08T02:17:09Z",
+    "DeviceId": "000000000000000000000000000000000000001a",
+    "DeviceName": "Server6",
+    "ClientVersion": "10.8830.26100.6584",
+    "PublicIP": "31.207.57.46",
+    "OSArchitecture": "64-bit",
+    "OSPlatform": "WindowsServer2025",
+    "OSBuild": 26100,
+    "IsAzureADJoined": 1,
+    "JoinType": "Hybrid Azure AD Join",
+    "AadDeviceId": "acdd62c3-4cde-52a4-9758-e8351135a9af",
+    "LoggedOnUsers": [
+      {
+        "UserName": "svc-server06",
+        "DomainName": "XYZ",
+        "Sid": "S-1-5-21-1105393054-1623902046-1723320406-153626"
+      }
+    ],
+    "OSVersion": "10",
+    "MachineGroup": "DeviceGroup 3",
+    "ReportId": 639244023230075711,
+    "OnboardingStatus": "Onboarded",
+    "DeviceCategory": "Server",
+    "DeviceType": "Server",
+    "DeviceSubtype": "Server",
+    "OSDistribution": "WindowsServer2025",
+    "OSVersionInfo": "Windows Server 2025",
+    "SensorHealthState": "Active",
+    "IsExcluded": 0,
+    "ExposureLevel": "Medium",
+    "DeviceDynamicTags": [
+      "XYZ Servers"
+    ],
+    "HardwareUuid": "9558bf39-57e8-5da5-a51d-f50c599029ae",
+    "IsTransient": 0,
+    "OsBuildRevision": 6584,
+    "ConnectivityType": "Standard",
+    "DlpInfo": {
+      "IsDlpConfigurationValid": true,
+      "DlpPolicyLastModifiedTimeUTC": "2026-08-29T02:01:54.1998261Z",
+      "IsDlpEnabled": false,
+      "IsDefenderRealTimeProtectionEnabled": true,
+      "IsDefenderBehaviorMonitoringEnabled": true,
+      "HasDlpACBandwidthExceeded": false,
+      "HasDlpValidUpn": false,
+      "DlpUpn": ""
+    },
+    "DiscoverySources": {
+      "Defender for Endpoint": "2026-09-07"
+    },
+    "DeviceRoles": {},
+    "Type": "DeviceInfo"
+  },
+  {
+    "TimeGenerated": "2026-09-08T02:17:09Z",
+    "Timestamp": "2026-09-08T02:17:09Z",
+    "DeviceId": "000000000000000000000000000000000000001b",
+    "DeviceName": "Server7",
+    "ClientVersion": "10.8830.26100.6584",
+    "PublicIP": "31.207.57.47",
+    "OSArchitecture": "64-bit",
+    "OSPlatform": "WindowsServer2025",
+    "OSBuild": 26100,
+    "IsAzureADJoined": 1,
+    "JoinType": "Hybrid Azure AD Join",
+    "AadDeviceId": "37a947c6-a134-50c0-889c-e4bbe854552d",
+    "LoggedOnUsers": [
+      {
+        "UserName": "svc-server07",
+        "DomainName": "XYZ",
+        "Sid": "S-1-5-21-1105393054-1623902046-1723320406-153627"
+      }
+    ],
+    "OSVersion": "10",
+    "MachineGroup": "DeviceGroup 3",
+    "ReportId": 639244023230075712,
+    "OnboardingStatus": "Onboarded",
+    "DeviceCategory": "Server",
+    "DeviceType": "Server",
+    "DeviceSubtype": "Server",
+    "OSDistribution": "WindowsServer2025",
+    "OSVersionInfo": "Windows Server 2025",
+    "SensorHealthState": "Active",
+    "IsExcluded": 0,
+    "ExposureLevel": "High",
+    "DeviceDynamicTags": [
+      "XYZ Servers"
+    ],
+    "HardwareUuid": "14a4ff92-8ade-5291-ba94-4de849116396",
+    "IsTransient": 0,
+    "OsBuildRevision": 6584,
+    "ConnectivityType": "Standard",
+    "DlpInfo": {
+      "IsDlpConfigurationValid": true,
+      "DlpPolicyLastModifiedTimeUTC": "2026-08-29T02:01:54.1998261Z",
+      "IsDlpEnabled": false,
+      "IsDefenderRealTimeProtectionEnabled": true,
+      "IsDefenderBehaviorMonitoringEnabled": true,
+      "HasDlpACBandwidthExceeded": false,
+      "HasDlpValidUpn": false,
+      "DlpUpn": ""
+    },
+    "DiscoverySources": {
+      "Defender for Endpoint": "2026-09-07"
+    },
+    "DeviceRoles": {},
+    "Type": "DeviceInfo"
+  },
+  {
+    "TimeGenerated": "2026-09-08T02:17:09Z",
+    "Timestamp": "2026-09-08T02:17:09Z",
+    "DeviceId": "000000000000000000000000000000000000001c",
+    "DeviceName": "Server8",
+    "ClientVersion": "10.8830.26100.6584",
+    "PublicIP": "31.207.57.48",
+    "OSArchitecture": "64-bit",
+    "OSPlatform": "WindowsServer2025",
+    "OSBuild": 26100,
+    "IsAzureADJoined": 1,
+    "JoinType": "Hybrid Azure AD Join",
+    "AadDeviceId": "645e2acd-96c3-5488-8f1d-49732dad9af3",
+    "LoggedOnUsers": [
+      {
+        "UserName": "svc-server08",
+        "DomainName": "XYZ",
+        "Sid": "S-1-5-21-1105393054-1623902046-1723320406-153628"
+      }
+    ],
+    "OSVersion": "10",
+    "MachineGroup": "DeviceGroup 3",
+    "ReportId": 639244023230075713,
+    "OnboardingStatus": "Onboarded",
+    "DeviceCategory": "Server",
+    "DeviceType": "Server",
+    "DeviceSubtype": "Server",
+    "OSDistribution": "WindowsServer2025",
+    "OSVersionInfo": "Windows Server 2025",
+    "SensorHealthState": "Active",
+    "IsExcluded": 0,
+    "ExposureLevel": "Low",
+    "DeviceDynamicTags": [
+      "XYZ Servers"
+    ],
+    "HardwareUuid": "56c846ff-2557-5a2d-9bca-1aa7d450cb41",
+    "IsTransient": 0,
+    "OsBuildRevision": 6584,
+    "ConnectivityType": "Standard",
+    "DlpInfo": {
+      "IsDlpConfigurationValid": true,
+      "DlpPolicyLastModifiedTimeUTC": "2026-08-29T02:01:54.1998261Z",
+      "IsDlpEnabled": false,
+      "IsDefenderRealTimeProtectionEnabled": true,
+      "IsDefenderBehaviorMonitoringEnabled": true,
+      "HasDlpACBandwidthExceeded": false,
+      "HasDlpValidUpn": false,
+      "DlpUpn": ""
+    },
+    "DiscoverySources": {
+      "Defender for Endpoint": "2026-09-07"
+    },
+    "DeviceRoles": {},
+    "Type": "DeviceInfo"
+  },
+  {
+    "TimeGenerated": "2026-09-08T02:17:09Z",
+    "Timestamp": "2026-09-08T02:17:09Z",
+    "DeviceId": "000000000000000000000000000000000000001d",
+    "DeviceName": "Server9",
+    "ClientVersion": "10.8830.26100.6584",
+    "PublicIP": "31.207.57.49",
+    "OSArchitecture": "64-bit",
+    "OSPlatform": "WindowsServer2025",
+    "OSBuild": 26100,
+    "IsAzureADJoined": 1,
+    "JoinType": "Hybrid Azure AD Join",
+    "AadDeviceId": "cf8a08fb-7107-5772-b51b-006dc337c28e",
+    "LoggedOnUsers": [
+      {
+        "UserName": "svc-server09",
+        "DomainName": "XYZ",
+        "Sid": "S-1-5-21-1105393054-1623902046-1723320406-153629"
+      }
+    ],
+    "OSVersion": "10",
+    "MachineGroup": "DeviceGroup 3",
+    "ReportId": 639244023230075714,
+    "OnboardingStatus": "Onboarded",
+    "DeviceCategory": "Server",
+    "DeviceType": "Server",
+    "DeviceSubtype": "Server",
+    "OSDistribution": "WindowsServer2025",
+    "OSVersionInfo": "Windows Server 2025",
+    "SensorHealthState": "Active",
+    "IsExcluded": 0,
+    "ExposureLevel": "Medium",
+    "DeviceDynamicTags": [
+      "XYZ Servers"
+    ],
+    "HardwareUuid": "a8d5e2ae-ce4a-5512-87e5-497d9674ef42",
+    "IsTransient": 0,
+    "OsBuildRevision": 6584,
+    "ConnectivityType": "Standard",
+    "DlpInfo": {
+      "IsDlpConfigurationValid": true,
+      "DlpPolicyLastModifiedTimeUTC": "2026-08-29T02:01:54.1998261Z",
+      "IsDlpEnabled": false,
+      "IsDefenderRealTimeProtectionEnabled": true,
+      "IsDefenderBehaviorMonitoringEnabled": true,
+      "HasDlpACBandwidthExceeded": false,
+      "HasDlpValidUpn": false,
+      "DlpUpn": ""
+    },
+    "DiscoverySources": {
+      "Defender for Endpoint": "2026-09-07"
+    },
+    "DeviceRoles": {},
+    "Type": "DeviceInfo"
+  },
+  {
+    "TimeGenerated": "2026-09-08T02:17:09Z",
+    "Timestamp": "2026-09-08T02:17:09Z",
+    "DeviceId": "000000000000000000000000000000000000001e",
+    "DeviceName": "Server10",
+    "ClientVersion": "10.8830.26100.6584",
+    "PublicIP": "31.207.57.50",
+    "OSArchitecture": "64-bit",
+    "OSPlatform": "WindowsServer2025",
+    "OSBuild": 26100,
+    "IsAzureADJoined": 1,
+    "JoinType": "Hybrid Azure AD Join",
+    "AadDeviceId": "803933ae-d52e-514a-8e78-b1c26ef0319d",
+    "LoggedOnUsers": [
+      {
+        "UserName": "svc-server10",
+        "DomainName": "XYZ",
+        "Sid": "S-1-5-21-1105393054-1623902046-1723320406-153630"
+      }
+    ],
+    "OSVersion": "10",
+    "MachineGroup": "DeviceGroup 3",
+    "ReportId": 639244023230075715,
+    "OnboardingStatus": "Onboarded",
+    "DeviceCategory": "Server",
+    "DeviceType": "Server",
+    "DeviceSubtype": "Server",
+    "OSDistribution": "WindowsServer2025",
+    "OSVersionInfo": "Windows Server 2025",
+    "SensorHealthState": "Active",
+    "IsExcluded": 0,
+    "ExposureLevel": "High",
+    "DeviceDynamicTags": [
+      "XYZ Servers"
+    ],
+    "HardwareUuid": "8781d88a-3c91-5cb1-9efb-5732e18ac8d2",
+    "IsTransient": 0,
+    "OsBuildRevision": 6584,
+    "ConnectivityType": "Standard",
+    "DlpInfo": {
+      "IsDlpConfigurationValid": true,
+      "DlpPolicyLastModifiedTimeUTC": "2026-08-29T02:01:54.1998261Z",
+      "IsDlpEnabled": false,
+      "IsDefenderRealTimeProtectionEnabled": true,
+      "IsDefenderBehaviorMonitoringEnabled": true,
+      "HasDlpACBandwidthExceeded": false,
+      "HasDlpValidUpn": false,
+      "DlpUpn": ""
+    },
+    "DiscoverySources": {
+      "Defender for Endpoint": "2026-09-07"
+    },
+    "DeviceRoles": {},
+    "Type": "DeviceInfo"
+  }
+]
